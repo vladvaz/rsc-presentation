@@ -1,6 +1,6 @@
 # React Server Components Presentation
 
-This is a presentation avout React Server Components
+This is the code for an presentation about React Server Components.
 
 ## Setup
 
