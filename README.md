@@ -1,4 +1,4 @@
-# Animotion
+# React Server Components Presentation
 
 This is a presentation avout React Server Components
 
