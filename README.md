@@ -1,23 +1,17 @@
 # Animotion
 
-This is an Animotion presentation.
+This is a presentation avout React Server Components
 
 ## Setup
 
 Install dependencies.
 
 ```sh
-pnpm i
+npm i
 ```
 
 Run the development server at http://localhost:5173/.
 
 ```sh
-pnpm run dev
-```
-
-Build and preview deploy.
-
-```sh
-pnpm run build && pnpm run preview
+npm run dev
 ```
